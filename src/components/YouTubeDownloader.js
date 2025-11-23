@@ -270,6 +270,16 @@ export default function YouTubeDownloader() {
            
             <span className="font-medium">Developer by Ing. Delgado Ruiz Edward Freddy</span>
             </div>
+
+            <div className="text-center mt-6 space-y-3">
+              <p className="text-white/70 text-sm">
+                ⚠️ Esta herramienta es solo para uso educativo. 
+                Respeta los derechos de autor y los términos de servicio de YouTube.
+              </p>
+              <p className="text-white/60 text-xs">
+                Solo descarga videos de los que tengas derechos o permiso del propietario.
+              </p>
+            </div>
         </div>
         </div>
         
