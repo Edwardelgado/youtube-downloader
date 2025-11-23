@@ -68,3 +68,44 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# 🎬 YouTube Downloader
+
+Aplicación web para descargar videos de YouTube en alta calidad.
+
+## 🚀 Características
+
+- ✅ Descarga videos en MP4
+- ✅ Calidades: 720p, 1080p, 1440p, 4K
+- ✅ Interfaz moderna y responsive
+- ✅ Desarrollado con React y Tailwind CSS
+
+## 👨‍💻 Desarrollador
+
+**Ing. Delgado Ruiz Edward Freddy**
+
+## 🛠️ Tecnologías
+
+- React 18
+- Tailwind CSS
+- RapidAPI (YouTube Media Downloader)
+
+## 📦 Instalación
+
+\`\`\`bash
+npm install
+npm start
+\`\`\`
+
+## ⚠️ Disclaimer
+
+Esta aplicación es solo para fines educativos. Respeta los derechos de autor y los términos de servicio de YouTube.
+
+## 📄 Licencia
+
+MIT License - Uso educativo
+
+## ⚙️ Configuración
+
+1. Copia `src/constants/config.example.js` a `src/constants/config.js`
+2. Agrega tu API Key de RapidAPI
